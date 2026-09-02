@@ -5,8 +5,8 @@ interface that highlights every flagged sentence back in its original context.
 
 Built for the 2026 Deloitte Digital Camp.
 
-![screenshot](docs/screenshot1.jpg,docs/screenshot2.jpg)
-
+![screenshot](docs/screenshot1.jpg)
+![screenshot](docs/screenshot2.jpg)
 
 ## Problem
 
