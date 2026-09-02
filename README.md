@@ -75,7 +75,7 @@ Python · Streamlit · DeepSeek-V3 API (OpenAI-compatible client)
 ## Setup
 
 ```bash
-git clone https://github.com/【你的用户名】/auditmind.git
+git clone https://github.com/chenzitian-BIT-UoR/auditmind.git
 cd auditmind
 pip install -r requirements.txt
 cp .env.example .env   # then edit .env and add your own DEEPSEEK_API_KEY
